@@ -39,19 +39,8 @@ for( i = 0 ; i < n ; i++)
   
   
   {
-  
-      
-      
-      
       maximim_value = arr[i];
-      
-      
-      
       maximum_index = i;
-      
-      
-      
-      
       search_cost = search_cost + 1;
   
   
